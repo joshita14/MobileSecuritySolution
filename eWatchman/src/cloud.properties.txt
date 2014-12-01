@@ -1,0 +1,6 @@
+PROJECT_ID_PROPERTY = “please put values”
+APPLICATION_NAME_PROPERTY = “please put values”
+ACCOUNT_ID_PROPERTY = “please insert values”
+PRIVATE_KEY_PATH_PROPERTY = “placed under src”
+HTTP_PROXY = proxy.iiit.ac.in
+HTTP_PORT = 8080
