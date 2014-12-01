@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:35
+-keep class com.example.mobilesecurity.CameraController$BootAndConnectivityActionObserver { <init>(...); }
+
+# view AndroidManifest.xml #generated:42
+-keep class com.example.mobilesecurity.CameraService { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class com.example.mobilesecurity.FirstTimeSetupActivity { <init>(...); }
+
